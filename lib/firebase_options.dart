@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDT2hinO7spvsOCnUV797mZHIxEcT5xVyQ',
+    apiKey: '',
     appId: '1:1041951798378:web:c5041a481202b69fed8613',
     messagingSenderId: '1041951798378',
     projectId: 'smart-job-recommender-ba5a4',
@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBX_vGnfK4cbkkywlc8N7IVstzGcqIvchQ',
+    apiKey: '',
     appId: '1:1041951798378:android:cb8e22b5c2d1478bed8613',
     messagingSenderId: '1041951798378',
     projectId: 'smart-job-recommender-ba5a4',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDluFgjrYhupUmJGkRt6RzzygdD37_-zck',
+    apiKey: '',
     appId: '1:1041951798378:ios:e90a52ab97b2dc92ed8613',
     messagingSenderId: '1041951798378',
     projectId: 'smart-job-recommender-ba5a4',
@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDluFgjrYhupUmJGkRt6RzzygdD37_-zck',
+    apiKey: '',
     appId: '1:1041951798378:ios:e90a52ab97b2dc92ed8613',
     messagingSenderId: '1041951798378',
     projectId: 'smart-job-recommender-ba5a4',
@@ -76,7 +76,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDT2hinO7spvsOCnUV797mZHIxEcT5xVyQ',
+    apiKey: '',
     appId: '1:1041951798378:web:d71ca927e4048840ed8613',
     messagingSenderId: '1041951798378',
     projectId: 'smart-job-recommender-ba5a4',

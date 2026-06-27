@@ -9,7 +9,7 @@ class AppConstants {
   static const String healthEndpoint    = '$flaskBaseUrl/health';
 
   //  Gemini API
-  static const String geminiApiKey = 'AIzaSyDYRWBffNUnKVQ4GXFj25evvdtWoYr-1To';
+  static const String geminiApiKey = '';
 
   // Gemini 3.1 Flash Lite Preview
   static const String geminiEndpoint =

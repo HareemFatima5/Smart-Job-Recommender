@@ -298,7 +298,6 @@ Returns the full job record including description, responsibilities, benefits, a
 Returns server status, number of jobs loaded, and TF-IDF feature count.
 
 ---
-## Screenshots
 
 ## Screenshots
 

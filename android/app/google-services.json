@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041951798378",
+    "project_id": "smart-job-recommender-ba5a4",
+    "storage_bucket": "smart-job-recommender-ba5a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041951798378:android:cb8e22b5c2d1478bed8613",
+        "android_client_info": {
+          "package_name": "com.example.smart_job_recommender"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX_vGnfK4cbkkywlc8N7IVstzGcqIvchQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

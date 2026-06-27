@@ -1,6 +1,6 @@
 # Smart Job Recommender System
 
-A full-stack AI-powered mobile application that matches users to relevant job opportunities based on their skills, identifies skill gaps for target roles, and provides an AI career coaching chatbot — built with Flutter and a Python ML backend.
+A full-stack AI-powered mobile application that matches users to relevant job opportunities based on their skills, identifies skill gaps for target roles, and provides an AI career coaching chatbot built with Flutter and a Python ML backend.
 
 >  Flutter · Python · Firebase · Gemini AI
 
@@ -334,9 +334,8 @@ Returns server status, number of jobs loaded, and TF-IDF feature count.
 
 ## Contributors
 
-- **Misbah Shaheen** 
 - **Hareem Fatima**
-  GitHub: [HareemFatima5](https://github.com/HareemFatima5)
+- **Misbah Shaheen** 
 
 ---
 
